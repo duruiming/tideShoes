@@ -1,0 +1,19 @@
+<div class="m-index">
+  <header>
+    <i class="yo-ico">&#xe745;</i>
+    <ul>
+      <li class="active">热点</li>
+      <li>关注</li>
+    </ul>
+    <i class="yo-ico">&#xe684;</i>
+  </header>
+  <nav>
+    <ul>
+      <li>足球现场</li>
+      <li>足球生活</li>
+      <li>足球美女</li>
+    </ul>
+  </nav>
+  <section>c</section>
+  <footer>d</footer>
+</div>

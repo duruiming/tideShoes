@@ -1,7 +1,10 @@
 <div class="m-index">
   <header>
     <i class="yo-ico">&#xe745;</i>
-   	<h3>潮鞋网</h3>
+    <ul>
+      <li class="active">热点</li>
+      <li>关注</li>
+    </ul>
     <i class="yo-ico">&#xe684;</i>
   </header>
   <nav>

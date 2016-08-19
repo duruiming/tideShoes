@@ -4,40 +4,22 @@
   @include flexbox();
   @include flex-direction(column);
   header {
-    height: .44rem;
+    height: .48rem;
     @include flexbox();
     background: $base-color;
     i {
       width: .44rem;
       text-align: center;
-      line-height: .44rem;
+      line-height: .48rem;
       font-size: .22rem;
       color: rgba(255, 255, 255, 0.8);
     }
-    ul {
-      @include flex();
-      @include flexbox();
-      @include align-items(center);
-      @include justify-content(center);
-      li {
-        width: .59rem;
-        height: .25rem;
-        text-align: center;
-        line-height: .25rem;
-        font-size: .12rem;
-        background: rgba(100, 217, 133, 0.7);
-        color: rgba(255, 255, 255, 0.7);
-        &:first-child {
-          border-radius: .1rem 0 0 .1rem;
-        }
-        &:last-child {
-          border-radius: 0 .1rem .1rem 0;
-        }
-        &.active {
-          background: #64d985;
-          color: #fff;
-        }
-      }
+    h3{
+        text-align:center;
+        line-height: .48rem;
+        font-size:.18rem;
+        @include flex();
+        color:#fff;
     }
   }
   nav {

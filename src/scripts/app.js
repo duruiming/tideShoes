@@ -1,4 +1,6 @@
 require('./libs/spa.min.js');
+require('./libs/swiper-3.3.1.jquery.min.js');
+require('./libs/scroll.js');
 
 // views
 require('./views/index.js');

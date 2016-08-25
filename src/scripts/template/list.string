@@ -1,19 +1,113 @@
-<div class="m-index">
-  <header>
-    <i class="yo-ico">&#xe745;</i>
-    <ul>
-      <li class="active">热点</li>
-      <li>关注</li>
-    </ul>
-    <i class="yo-ico">&#xe684;</i>
-  </header>
-  <nav>
-    <ul>
-      <li>足球现场</li>
-      <li>足球生活</li>
-      <li>足球美女</li>
-    </ul>
-  </nav>
-  <section>c</section>
-  <footer>d</footer>
-</div>
+  <div class="list">
+  	<header class="head">    
+	    <i class="yo-ico" action-type='switch'>&#xe61a;</i>
+	   	<h3>潮鞋网</h3>
+	    <span>浏览器</span>    
+	  </header>     
+	  <section spa-widget="scroll">
+	  	<div>
+	  		<div class="banner">
+			  	<div class="swiper-container" id="list-swiper">
+			      <ul class="listUl swiper-wrapper">
+			          <li class="swiper-slide">
+			          	<img src="/tideShoes/images/banner1.jpg" alt="">
+			          	<p>美超欧佰AW-SG004-咖</p>
+			          </li>
+			          <li class="swiper-slide">
+			          	<img src="/tideShoes/images/banner2.jpg" alt="">
+			          	<p>美超欧佰AW-SG004-咖</p>
+			          </li>
+			          <li class="swiper-slide">
+			          	<img src="/tideShoes/images/banner3.jpg" alt="">
+			          	<p>美超欧佰AW-SG004-咖</p>
+			          </li>
+			      </ul>
+			    </div>
+			  </div>
+			  <nav class="nav">
+			  	<ul>
+			  		<li><i class="yo-ico">&#xe612;</i><b>分类</b></li>
+			  		<li><i class="yo-ico">&#xe636;</i><b>订单</b></li>
+			  		<li><i class="yo-ico">&#xe6b5;</i><b>购物车</b></li>
+			  		<li><i class="yo-ico">&#xe60c;</i><b>搜索</b></li>
+			  	</ul> 	
+			  </nav>
+			  <ul class="list-m">
+			  	<li>
+			  		<i><img src="/tideShoes/images/s.png"></i>
+			  		<p>ROBINGL&CO.罗宾诺</p>
+			  		<p>AWSSI15-006</p>
+			  		<p>
+			  			<b>$369</b>
+			  			<span>$413</span>
+			  		</p>
+			  	</li>
+			  	<li>
+			  		<i><img src="/tideShoes/images/s.png"></i>
+			  		<p>ROBINGL&CO.罗宾诺</p>
+			  		<p>AWSSI15-006</p>
+			  		<p>
+			  			<b>$369</b>
+			  			<span>$413</span>
+			  		</p>
+			  	</li>
+			  	<li>
+			  		<i><img src="/tideShoes/images/s.png"></i>
+			  		<p>ROBINGL&CO.罗宾诺</p>
+			  		<p>AWSSI15-006</p>
+			  		<p>
+			  			<b>$369</b>
+			  			<span>$413</span>
+			  		</p>
+			  	</li>
+			  	<li>
+			  		<i><img src="/tideShoes/images/s.png"></i>
+			  		<p>ROBINGL&CO.罗宾诺</p>
+			  		<p>AWSSI15-006</p>
+			  		<p>
+			  			<b>$369</b>
+			  			<span>$413</span>
+			  		</p>
+			  	</li>
+			  	<li>
+			  		<i><img src="/tideShoes/images/s.png"></i>
+			  		<p>ROBINGL&CO.罗宾诺</p>
+			  		<p>AWSSI15-006</p>
+			  		<p>
+			  			<b>$369</b>
+			  			<span>$413</span>
+			  		</p>
+			  	</li>
+			  	<li>
+			  		<i><img src="/tideShoes/images/s.png"></i>
+			  		<p>ROBINGL&CO.罗宾诺</p>
+			  		<p>AWSSI15-006</p>
+			  		<p>
+			  			<b>$369</b>
+			  			<span>$413</span>
+			  		</p>
+			  	</li>
+			  	<li>
+			  		<i><img src="/tideShoes/images/s.png"></i>
+			  		<p>ROBINGL&CO.罗宾诺</p>
+			  		<p>AWSSI15-006</p>
+			  		<p>
+			  			<b>$369</b>
+			  			<span>$413</span>
+			  		</p>
+			  	</li>
+			  	<li>
+			  		<i><img src="/tideShoes/images/s.png"></i>
+			  		<p>ROBINGL&CO.罗宾诺</p>
+			  		<p>AWSSI15-006</p>
+			  		<p>
+			  			<b>$369</b>
+			  			<span>$413</span>
+			  		</p>
+			  	</li>
+			  </ul>
+	  	</div>	  	
+	  </section>  
+  </div>
+  
+

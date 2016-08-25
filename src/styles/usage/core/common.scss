@@ -1,4 +1,4 @@
-$base-color: #0dc441;
+$base-color: #ad53f9;
 
 @font-face {
   font-family: yofont;
@@ -8,4 +8,12 @@ $base-color: #0dc441;
 @font-face {
   font-family: yofont;
   src: url("/tideShoes/images/iconfont/iconfont-menu.woff") format("woff"), url("/tideShoes/images/iconfont/iconfont-menu.ttf") format("truetype");
+}
+@font-face {
+  font-family: yofont;
+  src: url("/tideShoes/images/iconfont/iconfont-back.woff") format("woff"), url("/tideShoes/images/iconfont/iconfont-back.ttf") format("truetype");
+}
+@font-face {
+  font-family: yofont;
+  src: url("/tideShoes/images/iconfont/iconfont-nav.woff") format("woff"), url("/tideShoes/images/iconfont/iconfont-nav.ttf") format("truetype");
 }
